@@ -1,0 +1,23 @@
+Slide 1 – Title
+NASA Space Mission Classification AI
+Aima – ITAI2372
+
+Slide 2 – Problem
+NASA has many missions with different goals.
+Classifying missions helps organize and analyze them.
+
+Slide 3 – Solution
+I built a simple AI model that predicts mission type.
+The dataset is generated inside the code.
+
+Slide 4 – Method
+Preprocessing with LabelEncoder.
+RandomForestClassifier for prediction.
+
+Slide 5 – Results
+Model trains successfully.
+Accuracy is high due to clean dataset.
+
+Slide 6 – Conclusion
+This project demonstrates basic AI workflow.
+Future work can expand the dataset and model.
